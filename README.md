@@ -1,2 +1,3 @@
-# kaympe20.github.io
-Homepage for my public facing website
+# Welcome
+This will be the homepage for all my personal projects.
+It is (obviously) not finished.
